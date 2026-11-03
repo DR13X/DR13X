@@ -1,13 +1,7 @@
-<!--
-  DR13X / DRACXX — GitHub Profile README
-  Drop this file into a repo named exactly: DR13X/DR13X
-  (https://github.com/DR13X/DR13X)
--->
-
 <div align="center">
 
 <!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+DRACXX+%F0%9F%90%89;AppSec+Researcher+%7C+Web+Pentester;Python+Security+Tooling+Builder;Bug+Hunter+%26+Vulnerability+Discloser" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=00FF9C&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+DRACXX+%F0%9F%90%89;AppSec+Researcher+%26+Web+Pentester;Building+Python+Security+Tools;Bug+Hunter+%7C+Vulnerability+Discloser" alt="Typing SVG" />
 
 <br/>
 
@@ -30,8 +24,8 @@ AppSec Researcher | Web Pentesting & Vulnerability Disclosure
 Python Security Tooling Builder | Always learning, always breaking (ethically)
 ```
 
-I'm a cybersecurity enthusiast who lives at the intersection of **offensive security**, **application security**, and **building practical Python tools**.  
-Whether it's hunting bugs, simulating threats for education, or crafting scanners — I love turning curiosity into code.
+I'm a cybersecurity enthusiast living at the intersection of **offensive security**, **application security**, and **building practical Python tools**.  
+Whether it's hunting bugs, simulating threats for education, or crafting recon scanners — I turn curiosity into code.
 
 > *"The quieter you become, the more you are able to hear."* — and the more vulns you find 👀
 
@@ -53,28 +47,23 @@ Whether it's hunting bugs, simulating threats for education, or crafting scanner
   </a>
 </p>
 
-> 💡 **Tip:** Update the TryHackMe link above to your exact profile URL if it's different (e.g. `https://tryhackme.com/p/yourusername`).
+---
+
+### 🛠️ Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[capturethebug](https://github.com/DR13X/capturethebug)** | Web VAPT Report Automation Platform — turn ZAP, Nuclei & Nmap results into professional HTML/PDF/DOCX reports |
+| **[S3RECON](https://github.com/DR13X/S3RECON)** | Authorized cloud storage exposure recon for Amazon S3, GCS & Azure Blob (metadata-only, no destructive ops) |
+| **[Ghostsearch](https://github.com/DR13X/Ghostsearch)** | Passive + Active Reconnaissance Toolkit — WHOIS, DNS, CT logs, port scanning & banner grabbing |
+| **[DomainMapper](https://github.com/DR13X/DomainMapper)** | Authorized domain-to-infrastructure OSINT reconnaissance tool |
+| **[SentryForge](https://github.com/DR13X/SentryForge)** | AI-Driven Platform for Intelligent Web, Network, Server & IoT Penetration Testing |
+| **[CyberPulse](https://github.com/DR13X/CyberPulse)** | Lightweight cybersecurity news & intelligence CLI (great for Termux) |
+| **[Dracxx_Toolkit](https://github.com/DR13X/Dracxx_Toolkit)** | Personal security toolkit collection |
 
 ---
 
-### 🛠️ What I'm currently building
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[SentryForge](https://github.com/DR13X/SentryForge)** | AI-Driven Platform for Intelligent Web, Network, Server & IoT Penetration Testing (authorized VAPT workbench) | Python |
-| **[Dracxx_Toolkit](https://github.com/DR13X/Dracxx_Toolkit)** | Personal security toolkit collection | Python |
-| **[Ghostsearch](https://github.com/DR13X/Ghostsearch)** | Stealthy search / recon utility | Python |
-| **[Malcodex-Toolkit](https://github.com/DR13X/Malcodex-Toolkit)** | Malware analysis & scanning tools | Python |
-| **[Phishing-Website-Detection-Tool](https://github.com/DR13X/Phishing-Website-Detection-Tool)** | Detect phishing sites with ML / heuristics | Python |
-| **[Password-Strength-Checker](https://github.com/DR13X/Password-Strength-Checker)** | Evaluate password strength like a pro | Python |
-| **[ethical-keylogger](https://github.com/DR13X/ethical-keylogger)** | Educational keylogger for red-team awareness | Python |
-| **[Simple-Ransomware-Simulator](https://github.com/DR13X/Simple-Ransomware-Simulator)** | Safe ransomware simulation for learning | Python |
-| **[Secure-Chat-App](https://github.com/DR13X/Secure-Chat-App)** | Encrypted chat application | Python |
-| **[cyber-quiz-portal](https://github.com/DR13X/cyber-quiz-portal)** | Interactive cybersecurity quiz platform | TypeScript |
-
----
-
-### 🎯 Skills & Interests
+### 🎯 Skills & Focus
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
@@ -97,7 +86,7 @@ Whether it's hunting bugs, simulating threats for education, or crafting scanner
 
 ---
 
-### 📊 GitHub Stats (live)
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DR13X&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&count_private=true" />
@@ -113,7 +102,11 @@ Whether it's hunting bugs, simulating threats for education, or crafting scanner
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DR13X/DR13X/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DR13X/DR13X/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DR13X/DR13X/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DR13X/DR13X/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 > *The snake eats your commits. Feed it daily.* 🐍
@@ -170,7 +163,6 @@ Hit me up on **[LinkedIn](https://www.linkedin.com/in/dracxx)** or drop a star o
 
 <br/><br/>
 
-<!-- Optional: visitor counter + last updated feel -->
-<img src="https://img.shields.io/badge/Last%20updated-September%202026-00FF9C?style=flat-square" />
+<img src="https://img.shields.io/badge/Last%20updated-November%202026-00FF9C?style=flat-square" />
 
 </div>
